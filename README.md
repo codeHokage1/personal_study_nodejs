@@ -5,4 +5,5 @@ Below is my progress in the video tutorial:
 * Chapter 2: Dealing with Files :white_check_mark: 
 * Chapter 3: Understanding NPM :white_check_mark: 
 * Chapter 4: Event Emitters :white_check_mark: 
-
+* Chapter 5: Build a Web Server :white_check_mark: 
+* Chapter 6: Intro to ExpressJS :white_check_mark: 

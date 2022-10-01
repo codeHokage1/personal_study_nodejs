@@ -1,0 +1,180 @@
+
+Sat Oct 01 2022 08:09:40 GMT+0100 (West Africa Standard Time) 
+b7342345-3057-4332-80c5-a4b3ad4c03c9: 	GET	undefined	/
+
+Sat Oct 01 2022 08:09:41 GMT+0100 (West Africa Standard Time) 
+b24a8cea-ce44-4822-8904-f8f334366822: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 08:13:10 GMT+0100 (West Africa Standard Time) 
+94f0b651-041a-4410-8647-dec539960ef0: 	GET	undefined	/new
+
+Sat Oct 01 2022 08:13:10 GMT+0100 (West Africa Standard Time) 
+40e3e58c-3b31-4597-a421-bf30ac1c85eb: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 08:13:10 GMT+0100 (West Africa Standard Time) 
+6dc18c08-2335-4f98-bbd6-1c236595bda4: 	GET	undefined	/img/img1.jpg
+
+Sat Oct 01 2022 10:35:10 GMT+0100 (West Africa Standard Time) 
+409ddd1e-44e6-4643-a765-15b8efe9cdc2: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 10:35:38 GMT+0100 (West Africa Standard Time) 
+dc44ad81-7fa1-413e-b25a-afbc1bbf54f5: 	GET	undefined	/
+
+Sat Oct 01 2022 10:38:36 GMT+0100 (West Africa Standard Time) 
+d65bb92b-c0c0-4c2f-9a24-fff246fb573a: 	OPTIONS	https://www.google.com	/
+
+Sat Oct 01 2022 10:38:36 GMT+0100 (West Africa Standard Time) 
+d5540834-df79-4c32-995f-0be0732b1592: 	GET	https://www.google.com	/
+
+Sat Oct 01 2022 11:05:45 GMT+0100 (West Africa Standard Time) 
+f119959d-fb1b-444d-91ef-8b455a42115b: 	OPTIONS	https://www.google.com	/
+
+Sat Oct 01 2022 11:05:46 GMT+0100 (West Africa Standard Time) 
+5ee59ee0-ea74-4381-8f73-d53151a8bf5b: 	GET	https://www.google.com	/
+
+Sat Oct 01 2022 11:06:20 GMT+0100 (West Africa Standard Time) 
+ef3be08d-04d8-430a-9c94-427d3eee226a: 	GET	https://www.google.com	/
+
+Sat Oct 01 2022 11:07:54 GMT+0100 (West Africa Standard Time) 
+695cb9e1-ba30-4795-8adf-85b6c32f8407: 	GET	https://www.google.com	/
+
+Sat Oct 01 2022 11:08:31 GMT+0100 (West Africa Standard Time) 
+3dbfdd84-2664-4078-97e7-dc7a40a1b2aa: 	GET	https://www.google.com	/
+
+Sat Oct 01 2022 11:08:40 GMT+0100 (West Africa Standard Time) 
+f7ceebe0-e1cd-44df-81f4-cc4b92d8ce67: 	GET	https://www.google.com	/
+
+Sat Oct 01 2022 11:48:26 GMT+0100 (West Africa Standard Time) 
+28dd8126-33be-40f2-acf4-f3b588fd5d92: 	GET	https://www.google.com	/
+
+Sat Oct 01 2022 17:35:56 GMT+0100 (West Africa Standard Time) 
+cb84eb11-c891-465f-86e7-5cf77d68a16a: 	GET	undefined	/
+
+Sat Oct 01 2022 17:35:56 GMT+0100 (West Africa Standard Time) 
+b3fd876b-dcf2-4bbf-8206-786bc8543506: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 17:36:18 GMT+0100 (West Africa Standard Time) 
+bc13f3e7-c4b2-496b-a2d1-2dde95732d69: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 17:36:22 GMT+0100 (West Africa Standard Time) 
+d38523b0-046e-4f9b-a0c6-7417182e767f: 	GET	undefined	/new
+
+Sat Oct 01 2022 17:36:22 GMT+0100 (West Africa Standard Time) 
+f1324939-7164-45c4-809a-2bc4bfd62a58: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 17:36:22 GMT+0100 (West Africa Standard Time) 
+85d1c25c-ddb8-4477-b46b-4b7818dd7198: 	GET	undefined	/img/img1.jpg
+
+Sat Oct 01 2022 17:40:53 GMT+0100 (West Africa Standard Time) 
+2a9d0ea1-575e-4b79-9bed-45e72bd3b4b6: 	GET	undefined	/subdir/tes
+
+Sat Oct 01 2022 17:40:53 GMT+0100 (West Africa Standard Time) 
+4abab381-ec52-4f53-a900-d7949109d24f: 	GET	undefined	/subdir/css/style.css
+
+Sat Oct 01 2022 17:41:19 GMT+0100 (West Africa Standard Time) 
+8f0a9dab-5ee1-4d59-9e8f-7bc195214eb0: 	GET	undefined	/subdir/tes
+
+Sat Oct 01 2022 17:41:19 GMT+0100 (West Africa Standard Time) 
+84a691fb-989d-42c0-9448-5e00d156cc53: 	GET	undefined	/subdir/css/style.css
+
+Sat Oct 01 2022 17:44:38 GMT+0100 (West Africa Standard Time) 
+8f272e2a-17ec-4681-b8da-edbd7f6875a3: 	GET	undefined	/subdir/tes
+
+Sat Oct 01 2022 17:44:39 GMT+0100 (West Africa Standard Time) 
+c9b52ddc-670f-4a69-9a52-38ecada44eb2: 	GET	undefined	/subdir/css/style.css
+
+Sat Oct 01 2022 17:45:03 GMT+0100 (West Africa Standard Time) 
+45deab14-c7d1-41b2-9ac1-39ddf456f2f2: 	GET	undefined	/subdir/tes
+
+Sat Oct 01 2022 17:45:03 GMT+0100 (West Africa Standard Time) 
+78492e15-01e6-44b9-846a-94e0d906a507: 	GET	undefined	/subdir/css/style.css
+
+Sat Oct 01 2022 17:58:18 GMT+0100 (West Africa Standard Time) 
+fcae6c0a-3bc7-43d9-95fd-970ce316143e: 	GET	undefined	/
+
+Sat Oct 01 2022 17:58:18 GMT+0100 (West Africa Standard Time) 
+b233ef3b-4d5b-4ab1-a250-978588ed954f: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 17:58:42 GMT+0100 (West Africa Standard Time) 
+3921facc-648d-4c60-a93b-ef54d4a0cb29: 	GET	undefined	/new.html
+
+Sat Oct 01 2022 17:58:42 GMT+0100 (West Africa Standard Time) 
+d90510bb-3333-4df2-8a84-1f9979b7ee02: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 17:58:46 GMT+0100 (West Africa Standard Time) 
+992bf178-d672-4017-bce3-0f71bf1198a6: 	GET	undefined	/new
+
+Sat Oct 01 2022 17:58:46 GMT+0100 (West Africa Standard Time) 
+0907b5a0-4903-43c3-b65a-0ed507182ad6: 	GET	undefined	/img/img1.jpg
+
+Sat Oct 01 2022 17:58:46 GMT+0100 (West Africa Standard Time) 
+3692f2eb-940a-471a-a192-3a36bb69e3a0: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 17:58:51 GMT+0100 (West Africa Standard Time) 
+eff08155-28f7-4376-baf5-b183ff166e94: 	GET	undefined	/subdir
+
+Sat Oct 01 2022 17:58:51 GMT+0100 (West Africa Standard Time) 
+f050e4ab-b771-444e-b044-98fd25a54620: 	GET	undefined	/subdir/
+
+Sat Oct 01 2022 18:15:32 GMT+0100 (West Africa Standard Time) 
+253832c1-f541-40b0-86a8-821f1817ac9e: 	GET	undefined	/
+
+Sat Oct 01 2022 18:15:32 GMT+0100 (West Africa Standard Time) 
+22e56463-dfda-4249-99bb-6d53b76db8bc: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 18:15:38 GMT+0100 (West Africa Standard Time) 
+69fedae0-fa6a-40ee-be17-afa45e1e336b: 	GET	undefined	/employees
+
+Sat Oct 01 2022 21:42:12 GMT+0100 (West Africa Standard Time) 
+fb98ba3f-cbb8-49de-b69a-e41479d1acd8: 	GET	undefined	/
+
+Sat Oct 01 2022 21:42:12 GMT+0100 (West Africa Standard Time) 
+dcd111f4-edd3-4f96-bd28-9cb04b45e71a: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 21:42:13 GMT+0100 (West Africa Standard Time) 
+286eaa9a-6313-44fb-9081-5fa31c224cdf: 	GET	undefined	/favicon.ico
+
+Sat Oct 01 2022 21:42:18 GMT+0100 (West Africa Standard Time) 
+6ebf619f-b618-4ad7-bcef-807d737d0e8b: 	GET	undefined	/employees
+
+Sat Oct 01 2022 21:42:35 GMT+0100 (West Africa Standard Time) 
+087d6186-fe9e-4c49-a974-3041253f4733: 	GET	undefined	/employees/2
+
+Sat Oct 01 2022 21:42:35 GMT+0100 (West Africa Standard Time) 
+5149fb56-17f6-4a95-aa59-c748467febaa: 	GET	undefined	/employees/css/style.css
+
+Sat Oct 01 2022 21:43:01 GMT+0100 (West Africa Standard Time) 
+b7f0aa8a-ccdb-49ab-9801-96b46e2062da: 	GET	undefined	/employees
+
+Sat Oct 01 2022 21:53:54 GMT+0100 (West Africa Standard Time) 
+f66efad4-3b13-4e68-a55e-8fb0bc1db92f: 	GET	undefined	/employees
+
+Sat Oct 01 2022 21:53:59 GMT+0100 (West Africa Standard Time) 
+8b6c0286-5147-4bac-8eb5-d9a61332ecd7: 	GET	undefined	/
+
+Sat Oct 01 2022 21:54:03 GMT+0100 (West Africa Standard Time) 
+a567602b-20b0-4044-9096-ebda95423efe: 	GET	undefined	/css/style.css
+
+Sat Oct 01 2022 21:54:08 GMT+0100 (West Africa Standard Time) 
+e2d121a2-7953-413a-925f-f49bf9f4bb48: 	GET	undefined	/employees
+
+Sat Oct 01 2022 21:54:18 GMT+0100 (West Africa Standard Time) 
+bc9f6b69-77d9-4af9-bfc4-3b40d884e02b: 	GET	undefined	/employees/1
+
+Sat Oct 01 2022 21:54:32 GMT+0100 (West Africa Standard Time) 
+9c3ea21a-dcd8-403b-83db-e3ff9dde0553: 	GET	undefined	/employees/1
+
+Sat Oct 01 2022 21:56:24 GMT+0100 (West Africa Standard Time) 
+2283c7a8-c638-4b9f-bcbc-16f8895f8a1a: 	GET	undefined	/
+
+Sat Oct 01 2022 21:58:13 GMT+0100 (West Africa Standard Time) 
+a7daec17-2264-4c15-9975-4d176311ef0d: 	GET	undefined	/employees
+
+Sat Oct 01 2022 21:58:16 GMT+0100 (West Africa Standard Time) 
+bcfe02d3-c2c3-4504-a23b-2db6913252b1: 	GET	undefined	/employees/2
+
+Sat Oct 01 2022 22:23:16 GMT+0100 (West Africa Standard Time) 
+57e93a9d-a4e8-4937-9495-9c53451f39e5: 	POST	undefined	/employees/
+
+Sat Oct 01 2022 22:24:25 GMT+0100 (West Africa Standard Time) 
+2dc21fb9-858b-44ab-8ece-323d3cf8abe5: 	POST	undefined	/employees/

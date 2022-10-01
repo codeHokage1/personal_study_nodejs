@@ -7,3 +7,6 @@ Below is my progress in the video tutorial:
 * Chapter 4: Event Emitters :white_check_mark: 
 * Chapter 5: Build a Web Server :white_check_mark: 
 * Chapter 6: Intro to ExpressJS :white_check_mark: 
+* Chapter 7: MiddleWare :white_check_mark: 
+* Chapter 8: Routing :white_check_mark: 
+

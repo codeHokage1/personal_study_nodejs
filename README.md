@@ -9,4 +9,6 @@ Below is my progress in the video tutorial:
 * Chapter 6: Intro to ExpressJS :white_check_mark: 
 * Chapter 7: MiddleWare :white_check_mark: 
 * Chapter 8: Routing :white_check_mark: 
+* Chapter 9: MVC and REST API :white_check_mark: 
+
 
